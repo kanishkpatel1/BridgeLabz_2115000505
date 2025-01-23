@@ -1,1 +1,3 @@
-abc
+public class ab {
+    
+}
