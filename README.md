@@ -65,6 +65,17 @@ This repository documents my journey through Java programming at **BridgeLabz**.
 #### *Date: 03-02-25*  
 ✅ Implemented OOP concepts, including instance methods and `instanceof`.  
 
+#### *Date: 04-02-25*  
+✅ Learned about class diagram, object diagram and sequence diagram how to draw on lucidchart .  
+
+#### *Date: 05-02-25*  
+✅ Implemented OOP concepts, including instance methods and `instanceof`.  
+
+#### *Date: 06-02-25*  
+✅ Learned the concept of Inheritence , Sigle Level , Multi Level, hierarchical inheritance.  
+
+#### *Date: 07-02-25*  
+✅ Learned the concept of Multilever Inheritence using Interface. 
 ---
 
 ## 📚 Class Topics and Assignments  
@@ -83,7 +94,10 @@ This repository documents my journey through Java programming at **BridgeLabz**.
 | 30-01-25 | Object Methods and Function Calls               | feature_30_01_2025  |  
 | 31-01-25 | Cohesion, Coupling, Class Dependencies          | feature_31_01_2025  |  
 | 02-02-25 | `this` Keyword and Encapsulation                | feature_02_02_2025  |  
-| 03-02-25 | OOP, Instance Methods, `instanceof`             | feature_03_02_2025  |  
+| 03-02-25 | OOP, Instance Methods, `instanceof`             | feature_03_02_2025  |
+| 04-02-25 | Learned how to design class diagram, object Diagram   sequence diagram           | feature_04_02_2025  |
+| 05-02-25 | Done the assignment of aggregation and composition             | feature_04_02_2025  |
+| 06-02-25 | Learned Inheritence , Single Level , Multi Level , Hierarchical Inheritance and multiple inheritance using Interfaces             | feature_06_02_2025  |
 
 ---
 
