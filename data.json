@@ -1,0 +1,10 @@
+{
+  "name": "Kanishk Patel",
+  "email": "kanishkdeveshpatel@gmail.com",
+  "age": 25,
+  "address": {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  "phone": "1234567890"
+}
